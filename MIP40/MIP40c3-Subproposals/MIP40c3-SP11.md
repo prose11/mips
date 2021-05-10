@@ -88,30 +88,23 @@ The multiplier for partial commitment is higher than one might initially expect 
 | Main Contributors (3)             | 39,000 DAI      |
 | Potential New Contributors (1)    | 12,250 DAI      |
 | **Programs**                      |                 |
-| SourceCred                        |                 |
-| Payouts                           | 85,000 DAI      |
-| Customization/Support             | 6,500 DAI       |
-| Feature Development               | 36,000 DAI      |
-| Status UIs                        |                 |
-| DaiStats                          | 1,500 DAI       |
-| CatFlip Equivalent                | 6,000 DAI       |
-| DAI Backing                       | 6,000 DAI       |
-| Voting Portal                     |                 |
-| Quality of Life Update            | 6,000 DAI       |
-| Delegate Updates                  | 18,000 DAI      |
-| Other Programs                    |                 |
+| SourceCred Payouts                | 85,000 DAI      |
+| SourceCred Customization/Support  | 6,500 DAI       |
+| SourceCred Feature Development    | 36,000 DAI      |
+| DaiStats Support                  | 1,500 DAI       |
+| CatFlip Equivalent Development    | 6,000 DAI       |
+| DAI Backing Support               | 6,000 DAI       |
 | MIPs Portal                       | 20,000 DAI      |
 | Forum Customization               | 4,000 DAI       |
 | **Admin**                         |                 |
-| Software                          |                 |
-| Undetermined                      | 1,900 DAI       |
-| Payroll                           | 100 DAI         |
+| Undetermined Software             | 1,900 DAI       |
+| Payroll Software                  | 100 DAI         |
 | **Other Costs**                   |                 |
 | Contingency Buffer                | 70,000 DAI      |
 | Gas                               | 5,000 DAI       |
 | Travel                            | 6,000 DAI       |
 | Contingency Budget                | 150,000 DAI     |
-| **Total**                         | **556,750 DAI** |
+| **Total**                         | **532,750 DAI** |
 
 #### Remarks
 
