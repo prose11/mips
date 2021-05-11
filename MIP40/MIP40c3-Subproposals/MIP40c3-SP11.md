@@ -103,10 +103,13 @@ The multiplier for partial commitment is higher than one might initially expect 
 | Contingency Buffer                | 70,000 DAI      |
 | Gas                               | 5,000 DAI       |
 | Travel                            | 6,000 DAI       |
-| Contingency Budget                | 150,000 DAI     |
+| Continuity Budget                 | 150,000 DAI     |
 | **Total**                         | **532,750 DAI** |
 
 #### Remarks
+
+**Continuity Budget**
+We are requesting a portion of this quarter's budget allocation for the specific purposes of continued operation during a serious event that cuts off monthly budget transfers to GovAlpha. The DAI from this allocation will likely be swapped for USDC to further protect the Core Unit's ability to pay for essential services during an event that makes spending DAI unfeasible. 150,000 DAI would allow for us to continue paying essential salaries and core expenses without defaulting on payments for previous work. These funds will only be used when GovALpha cannot receive monthly budget payments from the protocol. 
 
 ### Budget Implementation
 
